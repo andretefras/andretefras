@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Coming soon...
+
+## 📫 How to reach me
+
+<a href="https://twitter.com/decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://www.youtube.com/channel/UC2g7mtsw09FN6UA4D6JPVCg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
+<a href="https://dev.to/decocodes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/decocodes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+
 <!--
 **decocodes/decocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
