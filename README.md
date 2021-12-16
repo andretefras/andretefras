@@ -21,7 +21,7 @@ Good code is a state of art.
 
 ## ⚡ Fun facts
 
-- 🎸 Guitar player wannabe. Currently surfing in the waves of Blues and musical theory.
+- 🎸 Guitar player wannabe. Currently surfing in the waves of blues and musical theory.
 - 🥋 2nd dan shotokan karate practioner on [SKIF](https://skif-world.com).
 
 ## 📫 How to reach me
