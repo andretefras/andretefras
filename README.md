@@ -6,7 +6,7 @@ My stack is [@Laravel](https://laravel.com) + [@Inertia.js](https://inertiajs.co
 
 I currently work as CTO on [@benfeitoria](https://benfeitoria.com) merging strategy into technology pursuing positive impact in the world.
 
-Code is a state of art. Beauty code is a bless.
+Good code is a state of art.
 
 ## 🌱 I’m currently learning
 
