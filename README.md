@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Deco (also but less known as André Assis), a solutions thinker, open-source enthusiast, content creator wannabe and full stack developer based on Rio de Janeiro.
+I am Deco (also but less known as André Assis), solutions thinker, open-source enthusiast, content creator wannabe and full stack developer based on Rio de Janeiro.
 
 I currently work as CTO on [@benfeitoria](https://benfeitoria.com) merging strategy into technology pursuing positive impact in the world.
 
