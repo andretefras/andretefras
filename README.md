@@ -2,9 +2,9 @@
 
 I am Deco (also but less known as André Assis), a solutions thinker, open-source enthusiast, content creator wannabe and full stack developer based on Rio de Janeiro.
 
-My stack is [@Laravel](https://laravel.com) + [@Inertia.js](https://inertiajs.com/) + [@Vue.js](https://vuejs.org/) + [Tailwind CSS](https://tailwindcss.com/)
-
 I currently work as CTO on [@benfeitoria](https://benfeitoria.com) merging strategy into technology pursuing positive impact in the world.
+
+My stack is [@Laravel](https://laravel.com) + [@Inertia.js](https://inertiajs.com/) + [@Vue.js](https://vuejs.org/) + [Tailwind CSS](https://tailwindcss.com/)
 
 Good code is a state of art.
 
