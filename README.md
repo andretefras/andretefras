@@ -4,7 +4,7 @@ I am Deco (also but less known as André Assis), solutions thinker, open-source 
 
 I currently work as CTO on [@benfeitoria](https://benfeitoria.com) merging strategy into technology pursuing positive impact in the world.
 
-My stack is [@Laravel](https://laravel.com) + [@Inertia.js](https://inertiajs.com/) + [@Vue.js](https://vuejs.org/) + [Tailwind CSS](https://tailwindcss.com/)
+My current stack is [@Laravel](https://laravel.com) & [@Inertia.js](https://inertiajs.com/) & [@Vue.js](https://vuejs.org/) & [Tailwind CSS](https://tailwindcss.com/)
 
 ## 🌱 I’m currently learning
 
