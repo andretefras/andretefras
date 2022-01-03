@@ -22,6 +22,9 @@ My current stack is [@Laravel](https://laravel.com) & [@Inertia.js](https://iner
 - 🎸 Guitar player wannabe. Currently surfing in the waves of blues and musical theory.
 - 🥋 2nd dan shotokan karate practioner on [SKIF](https://skif-world.com).
 
+## Status
+![Deco's GitHub stats](https://github-readme-stats.vercel.app/api?username=decocodes&hide=stars&count_private=true&show_icons=true&theme=dracula)
+
 ## 📫 How to reach me
 
 <a href="https://twitter.com/decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
