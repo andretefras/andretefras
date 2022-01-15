@@ -27,10 +27,10 @@ My current stack is [@Laravel](https://laravel.com) & [@Inertia.js](https://iner
 
 ## 📫 How to reach me
 
-<a href="https://twitter.com/deco_codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://twitter.com/deco-codes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UC1lHHfkJjwymL5yL-gVi_-w"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <a href="https://dev.to/deco_codes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/deco_codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/deco-codes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 Feel free and encouraged to say [hello](mailto:hello@deco.codes?subject=Hello!)!
 
