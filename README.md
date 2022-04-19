@@ -26,8 +26,7 @@ My current stack is [@Laravel](https://laravel.com) & [@Inertia.js](https://iner
 ![Deco's GitHub stats](https://github-readme-stats.vercel.app/api?username=decocodes&hide=stars&count_private=true&show_icons=true&theme=dracula)
 
 ## 📫 How to reach me
-
-<a href="https://twitter.com/decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+<a href="https://twitter.com/intent/follow?screen_name=decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UC1lHHfkJjwymL5yL-gVi_-w?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <a href="https://dev.to/decocodes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/decocodes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
