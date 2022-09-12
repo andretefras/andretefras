@@ -11,6 +11,7 @@ My current stack is [@Laravel](https://laravel.com) & [@Inertia.js](https://iner
 - Kong
 - AWS Lambda
 - DigitalOcean Functions
+- Java
 
 ## 💬 Ask me about
 
