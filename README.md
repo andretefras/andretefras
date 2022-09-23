@@ -4,7 +4,7 @@ My name is André. Nice to meet you!
 
 I am a full stack developer based on Brazil.
 
-I have a graduate degree on software engineering and I have been working with software development for over 15 years.
+I have a graduate degree in software engineering and I have been working with software development for over 15 years.
 
 ## Stack
 
