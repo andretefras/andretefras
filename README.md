@@ -44,8 +44,6 @@ I am a tech enthusiast that likes to create things from scratch.
 
 ## 📫 How to reach me
 <a href="https://twitter.com/intent/follow?screen_name=decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-<a href="https://www.youtube.com/channel/UC1lHHfkJjwymL5yL-gVi_-w?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
-<a href="https://dev.to/decocodes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/andretefras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 <!--
