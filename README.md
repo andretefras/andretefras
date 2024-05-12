@@ -26,19 +26,17 @@ I am a tech enthusiast that likes to create things from scratch.
 
 ## 🌱 I’m currently learning
 
-- AWS
 - Java / Spring
-- Go / Fiber
+- GoLang
 
 ## 💬 Poke me about
 
 - Partnerships and job oportunities
-- Technical advices
-- Career mentorship
+- OpenSource
 
 ## ⚡ Fun facts
 
-- 🎸 Guitar player wannabe. Currently surfing in the waves of blues and musical theory.
+- 🎸 Guitar player wannabe.
 - 🥋 2nd dan shotokan karate practioner on [SKIF](https://skif-world.com).
 
 ## Status
@@ -48,7 +46,7 @@ I am a tech enthusiast that likes to create things from scratch.
 <a href="https://twitter.com/intent/follow?screen_name=decocodes"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UC1lHHfkJjwymL5yL-gVi_-w?sub_confirmation=1"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 <a href="https://dev.to/decocodes"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/decocodes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/andretefras/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 Feel free and encouraged to say [hello](mailto:hello@deco.codes?subject=Hello!)!
 
