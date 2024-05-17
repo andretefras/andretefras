@@ -31,11 +31,6 @@ I am a tech enthusiast that likes to create things from scratch.
 - Java / Spring
 - GoLang
 
-## 💬 Poke me about
-
-- Partnerships and job oportunities
-- OpenSource
-
 ## ⚡ Fun facts
 
 - 🎸 Guitar player wannabe.
