@@ -2,8 +2,6 @@
 
 My name is André. Nice to meet you!
 
-I am a tech enthusiast that likes to create things from scratch.
-
 ## Stack
 
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
